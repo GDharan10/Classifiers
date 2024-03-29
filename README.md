@@ -1,4 +1,4 @@
-# Machine Learning Model Evaluation README
+# Machine Learning Classifier Model Evaluation
 
 ## Overview
 
